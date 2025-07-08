@@ -13,6 +13,7 @@ Why This Project Exists:<br>
 After learning GSAP and some responsive design theory, I realized:<br>
 > **You don’t truly “know” unless you build.**<br>
 So this was built **from scratch**, not following any tutorial just experiments, breaks, fixes, and wins.<br>
+
 I used this project to:<br>
 - Understand **mobile-first thinking**<br>  
 - Apply **GSAP animations** practically <br>
