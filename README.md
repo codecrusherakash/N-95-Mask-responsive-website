@@ -12,6 +12,7 @@ Tech Used:<br>
 Why This Project Exists:<br>
 After learning GSAP and some responsive design theory, I realized:<br>
 > **You don’t truly “know” unless you build.**<br>
+
 So this was built **from scratch**, not following any tutorial just experiments, breaks, fixes, and wins.<br>
 
 I used this project to:<br>
@@ -22,6 +23,7 @@ Note:<br>
 - This isn’t a big “portfolio piece” it’s a real practice project made with effort and curiosity.<br>
 - Optimized only for **laptops and mobiles**, not tablets.<br>
 >let's connect in LinkedIn:https://www.linkedin.com/in/codecrusherakash <br>
+
 Coming Next:<br>
 This project gave me confidence in basic responsiveness.<br>
 Next, I’ll build more dynamic UIs — deeper JS, more polished layouts, and sharper design.
